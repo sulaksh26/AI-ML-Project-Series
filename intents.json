@@ -1,0 +1,44 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["My pleasure", "You're Welcome"],
+         "context": [""]
+        },
+        {"tag": "query1",
+         "patterns": ["What is the diameter of the Sun?","Sun","sun"],
+         "responses": ["The Sun orbits the Galactic Center at a distance of 24,000 to 28,000 light-years. From Earth, it is on average 1 AU (1.496 × 108 km) or about 8 light-minutes away. Its diameter is about 1,391,400 km (864,600 mi; 4.64 LS), 109 times that of Earth."],
+         "context": [""]
+        },
+        {"tag": "query2",
+         "patterns": ["What is the diameter of the Earth?","Earth","earth"],
+         "responses": ["Because of the discrepancy between Earth’s polar and equatorial diameter, astronomers and scientists often employ averages. This is what is known as its “mean diameter”, which in Earth’s case is the sum of its polar and equatorial diameters, which is then divided in half. From this, we get a mean diameter of 12,742 km (7917.5 mi)."],
+         "context": [""]
+        },
+        {"tag": "query3",
+         "patterns": ["What is the diameter of the Moon?","Moon","moon"],
+         "responses": [" Moon's diameter is 3,474 km (2,159 mi), roughly one-quarter of Earth's (about as wide as Australia)."],
+         "context": [""]
+        },
+        {"tag": "query4",
+         "patterns": ["What is the diameter of the Mars?","Mars","mars"],
+         "responses": ["Mars is classified as a terrestrial planet and is the second smallest of the Solar System 's planets with a diameter of 6,779 km (4,212 mi)."],
+         "context": [""]
+        },
+        {"tag": "query5",
+         "patterns": ["What is the diameter of the Jupiter?","Jupiter","jupiter"],
+         "responses": ["Jupiter is classified as a planet and is the largest of the Solar System 's planets with a diameter of 88846.14 miles."],
+         "context": [""]
+        }
+        
+        
+    ]}
