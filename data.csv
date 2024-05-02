@@ -1,0 +1,9 @@
+Position,College,RATING,LOCATION,Type,TOTAL FEE,Admission
+1,IIT,100,PAN INDIA,Public,1 Lakh,JEE
+2,IIIT,98,PAN INDIA,Public,15 Lakh,JEE
+3,NIT,95,PAN INDIA,Public,10 Lakh,JEE
+4,BITS,90,PILANI,Private,18 Lakh,JEE
+5,TIET,88,PATIALA,Private,25 Lakh,JEE+Boards
+6,VIT,85,VELLORE,Private,13 Lakh ,VITEEE
+7,AMITY,80,NOIDA,Private,15 Lakh,Boards
+8,MANIPAL,76,BENGALURU,Private,18 lakh,JEE
