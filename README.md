@@ -1,2 +1,3 @@
 # AI-ML-Project-Series
-First run new.py then chatbot.py
+Project-1:First upload intents.json,then run new.py and finally run chatbot.py
+Project-2:Upload data.csv then run QandA_Chatbot
